@@ -1,0 +1,4 @@
+D:\projectAleks\Sebestoinost\Sebestoinost\obj\Debug\net8.0\Sebestoinost.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectAleks\Sebestoinost\Sebestoinost\obj\Debug\net8.0\Sebestoinost.AssemblyInfoInputs.cache
+D:\projectAleks\Sebestoinost\Sebestoinost\obj\Debug\net8.0\Sebestoinost.AssemblyInfo.cs
+D:\projectAleks\Sebestoinost\Sebestoinost\obj\Debug\net8.0\Sebestoinost.csproj.CoreCompileInputs.cache
